@@ -11,10 +11,10 @@ top-performing products, customers, and regions.
 - Power BI
 
 ## 📊 Files Included
-- `Capstone Project.sql` – SQL queries used for analysis
-- `Northwind Dataset.xlsx` – Raw dataset
-- `Sales Analytics Capstone Project.pbix` – Power BI dashboard
-- `Northwind Sales Analysis.pdf` – Final report
+- Capstone Project.sql – SQL queries used for analysis
+- Northwind Dataset.xlsx – Raw dataset
+- Sales Analytics Capstone Project.pbix – Power BI dashboard
+- Northwind Sales Analysis.pdf – Final report
 - Sales Analytics Capstone Project.png - Dashboard
 
 ## 📈 Key Insights
@@ -50,3 +50,6 @@ top-performing products, customers, and regions.
    - Visualize the number of returns across different **markets** and **product categories**.
    - Provide insights into patterns and potential issues causing returns.
 
+## Conclusion
+The analysis of the Northwind dataset shows that sales are mainly driven by a few key products, categories, and customers. Certain regions and employees contribute more to revenue, while shipping and freight data
+highlight areas for operational improvement. Overall, the dataset demonstrates how data analysis can support better business decisions in sales, customer retention, and logistics.
