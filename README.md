@@ -53,3 +53,7 @@ top-performing products, customers, and regions.
 ## Conclusion
 The analysis of the Northwind dataset shows that sales are mainly driven by a few key products, categories, and customers. Certain regions and employees contribute more to revenue, while shipping and freight data
 highlight areas for operational improvement. Overall, the dataset demonstrates how data analysis can support better business decisions in sales, customer retention, and logistics.
+
+## Dashboard
+<img width="1119" height="626" alt="Northwind sales Dashboard" src="https://github.com/user-attachments/assets/f629bb20-12c9-40b2-ba5e-6739877ce062" />
+
