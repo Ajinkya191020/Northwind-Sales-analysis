@@ -25,9 +25,9 @@ top-performing products, customers, and regions.
 ## Steps to Create the Dashboard
 
 1. **Set Up Your Environment**:
-   - Choose a data analysis and visualization tool such as **Tableau**, **Power BI**, or **Python** with **Plotly/Dash**.
+   - Choose a data analysis and visualization tool such as **Tableau**, **Power BI**, or **SQL**.
    - Prepare your **development environment** by installing necessary libraries or software.
-   - Load the **Orders**, **People**, and **Return** datasets into your environment.
+   - Load the **Orders**, **Customers**, **Orders_Details**, **Employees** and **Product** and other datasets into your environment.
 
 2. **Data Cleaning and Preparation**:
    - Ensure that each dataset is **cleaned** for null values, duplicates, and formatting inconsistencies.
@@ -35,7 +35,7 @@ top-performing products, customers, and regions.
    - Create derived fields like **Total Profit**, **Profit Margin**, and **Sales Contribution**.
 
 3. **KPI Calculation**:
-   - Calculate **Total Sales**, **Total Profit**, **Total Quantity**, **Number of Orders**, and **Average Discount**.
+   - Calculate **Total Sales**, **Total Profit**, **Total Quantity**, **Number of Orders**, and **Average orders**.
    - Summarize these metrics in a **KPI table** to be used in the dashboard.
 
 4. **Data Visualization**:
@@ -47,7 +47,7 @@ top-performing products, customers, and regions.
    - Use **filtering options** to allow users to filter data by **region, market, and customer segment**.
 
 5. **Return Analysis**:
-   - Visualize the number of returns across different **markets** and **product categories**.
+   - Visualize the number of returns across different **Region** and **product categories**.
    - Provide insights into patterns and potential issues causing returns.
 
 ## Conclusion
