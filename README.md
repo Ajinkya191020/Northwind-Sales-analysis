@@ -1,5 +1,11 @@
 # Northwind Sales Analysis – Capstone Project
-Northwind is a sample database representing a fictitious company that imports and exports specialty foods, containing data on products, customers, orders, employees, and suppliers for business analysis.
+The Northwind database is a well-known sample relational database that represents a fictional company called Northwind Traders, which imports and exports specialty food products. It was originally developed by Microsoft to help learners understand database concepts, SQL queries, and business data analysis. The database simulates real business operations by storing information about products, customers, employees, suppliers, orders, and shipping companies.
+
+In the Northwind system, each table represents a different part of the business. For example, the Products table stores details about the food items sold by the company, including product name, price, and stock information. The Customers table contains details about the businesses or individuals purchasing products. The Suppliers table records information about companies that supply goods to Northwind Traders. These tables are connected through relationships using primary and foreign keys, which help maintain data consistency and allow efficient data retrieval.
+
+The Orders and Order Details tables record transactions between customers and the company. They show which products were ordered, the quantity purchased, pricing, and delivery information. The Employees table keeps track of staff members responsible for managing orders, while the Shippers table stores details about companies responsible for delivering products.
+
+Overall, the Northwind database provides a practical example of how relational databases work in real business environments. It is widely used for learning SQL, performing data analysis, and practicing database management concepts
 
 ## 📌 Project Overview
 This project analyzes sales data from the Northwind database to uncover trends,
